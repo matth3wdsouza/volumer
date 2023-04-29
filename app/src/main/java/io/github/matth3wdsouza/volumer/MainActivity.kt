@@ -1,0 +1,15 @@
+package io.github.matth3wdsouza.volumer
+
+import android.app.Activity
+import android.os.Bundle
+
+class MainActivity : Activity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        invokeVolumeDialog(this)
+        addTileService(this)
+
+        finishAndRemoveTask()
+    }
+}
