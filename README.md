@@ -8,7 +8,7 @@ Volumer is a simple Android application that allows you to invoke the volume dia
 
 The volume dialog can be invoked by tapping the app icon or the quick settings tile.
 
-[Download APK](https://github.com/matth3wdsouza/Volumer/releases/latest/download/volumer.apk) (Requires Android 6+)
+[Download APK](https://github.com/matth3wdsouza/Volumer/releases/latest/) (Requires Android 6+)
 
 ## Screenshots
 
