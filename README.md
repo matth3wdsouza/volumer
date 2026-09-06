@@ -21,7 +21,7 @@ It automatically picks the right stream (call, ring, alarm, or media) based on w
 
 ## Screenshots
 
-<!-- TODO: add screenshots to images/screenshots/ and reference them here -->
+<img src="images/screenshots/1.png" alt="Home screen" width=220px> <img src="images/screenshots/2.png" alt="Quick Settings tile and volume dialog" width=220px> <img src="images/screenshots/3.png" alt="Home screen shortcut and volume dialog" width=220px>
 
 ## Building from source
 
