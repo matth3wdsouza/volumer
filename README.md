@@ -1,15 +1,36 @@
 # Volumer
 
-[![Build Application](https://github.com/matth3wdsouza/Volumer/actions/workflows/build.yml/badge.svg)](https://github.com/matth3wdsouza/Volumer/actions/workflows/build.yml) [![License](https://img.shields.io/github/license/matth3wdsouza/Volumer?color=orange)](LICENSE)
+[![Build Application](https://github.com/matth3wdsouza/volumer/actions/workflows/build.yml/badge.svg)](https://github.com/matth3wdsouza/volumer/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/matth3wdsouza/volumer)](https://github.com/matth3wdsouza/volumer/releases/latest)
+[![License](https://img.shields.io/github/license/matth3wdsouza/volumer?color=orange)](LICENSE)
+[![Min SDK](https://img.shields.io/badge/API-24%2B-brightgreen)](https://github.com/matth3wdsouza/volumer)
 
 Are your volume buttons broken?
 
-Volumer is a simple Android application that allows you to invoke the volume dialog.
+Volumer shows the system volume dialog with one tap.
 
-The volume dialog can be invoked by tapping the app icon or the quick settings tile.
+It automatically picks the right stream (call, ring, alarm, or media) based on what you're doing, just like the hardware buttons would.
 
-[Download APK](https://github.com/matth3wdsouza/Volumer/releases/latest/) (Requires Android 6+)
+[Download APK](https://github.com/matth3wdsouza/volumer/releases/latest/) · Requires Android 7.0+
+
+## How to use it
+
+- **Open the app** for a one-tap "show volume dialog" button, plus setup for the options below
+- **Add the Quick Settings tile** for one-tap access from the notification shade
+- **Pin a home screen shortcut** for one-tap access without opening the app at all
 
 ## Screenshots
 
-<img src="images/screenshots/1.png" alt="Screenshot 1" width=220px> <img src="images/screenshots/2.png" alt="Screenshot 2" width=220px> <img src="images/screenshots/3.png" alt="Screenshot 3" width=220px>
+<!-- TODO: add screenshots to images/screenshots/ and reference them here -->
+
+## Building from source
+
+```
+git clone https://github.com/matth3wdsouza/volumer.git
+cd volumer
+./gradlew assembleDebug
+```
+
+## License
+
+[GPL-3.0](LICENSE)

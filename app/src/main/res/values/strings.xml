@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Volumer</string>
+    <string name="home_description">For when your volume buttons don\'t work. Show the dialog with one tap, or add a tile for even faster access.</string>
+    <string name="show_volume_dialog">Show volume dialog</string>
+    <string name="add_tile">Add tile to quick settings</string>
+    <string name="add_shortcut">Add shortcut to home screen</string>
 </resources>

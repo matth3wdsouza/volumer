@@ -18,7 +18,7 @@
     android:height="108dp"
     android:viewportWidth="960"
     android:viewportHeight="960"
-    android:tint="#FFFFFF"
+    android:tint="#000000"
     android:autoMirrored="true">
   <group android:scaleX="0.58"
       android:scaleY="0.58"
